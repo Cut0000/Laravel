@@ -82,7 +82,7 @@
             <div class="content">
                 <div class="title m-b-md">
                     <!-- Laravel -->
-                    Zenta Hapsari
+                    Zenta belok kiri mentok
                 </div>
 
                 <div class="links">
